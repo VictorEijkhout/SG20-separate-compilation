@@ -101,7 +101,7 @@ _These are important topics that are not expected to be covered but provide
 guidance where one can continue to investigate this topic in more depth._
 
 * Language inter-operability: the `extern "C"` mechanism.
-*  Linker conventions including name mangling.
+* Linker conventions including name mangling.
 * The `nm` tool for inspection object files and libraries, including de-mangling.
 * Understand the issues involved in deciding between include guards and `#pragma once`.
 
